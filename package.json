@@ -1,5 +1,5 @@
 {
-  "name": "camp-tests",
+  "name": "",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,21 +18,16 @@
   "bugs": "",
   "keywords": [],
   "author": {
-    "name": "Mpho",
-    "email": "mabidikamampho1@gmail.com",
-    "url": "https://github.com"
+    "name": "",
+    "email": "",
+    "url": ""
   },
-  "contributors": [
-
-  ],
+  "contributors": [],
   "scripts": {
     "dev": "",
-    "test": "mocha"
-  },
-  "dependencies": {
-
+    "test": ""
   },
   "devDependencies": {
-
+    "mocha": "^10.2.0"
   }
 }
